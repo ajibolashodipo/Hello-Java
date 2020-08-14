@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ByteShortIntLong/ByteShortIntLong.iml" filepath="$PROJECT_DIR$/ByteShortIntLong/ByteShortIntLong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CharAndBoolean/CharAndBoolean.iml" filepath="$PROJECT_DIR$/CharAndBoolean/CharAndBoolean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Conditionals/Conditionals.iml" filepath="$PROJECT_DIR$/Conditionals/Conditionals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ControlFlow/ControlFlow.iml" filepath="$PROJECT_DIR$/ControlFlow/ControlFlow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FloatAndDouble/FloatAndDouble.iml" filepath="$PROJECT_DIR$/FloatAndDouble/FloatAndDouble.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ForLoop/ForLoop.iml" filepath="$PROJECT_DIR$/ForLoop/ForLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java Projects.iml" filepath="$PROJECT_DIR$/.idea/Java Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KeywordsAndExpressions/KeywordsAndExpressions.iml" filepath="$PROJECT_DIR$/KeywordsAndExpressions/KeywordsAndExpressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodOverload/MethodOverload.iml" filepath="$PROJECT_DIR$/MethodOverload/MethodOverload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinMaxChallenge/MinMaxChallenge.iml" filepath="$PROJECT_DIR$/MinMaxChallenge/MinMaxChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ParsingValuesFromString/ParsingValuesFromString.iml" filepath="$PROJECT_DIR$/ParsingValuesFromString/ParsingValuesFromString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReadingUserInput/ReadingUserInput.iml" filepath="$PROJECT_DIR$/ReadingUserInput/ReadingUserInput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UserInputChallenge/UserInputChallenge.iml" filepath="$PROJECT_DIR$/UserInputChallenge/UserInputChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WhileLoop/WhileLoop.iml" filepath="$PROJECT_DIR$/WhileLoop/WhileLoop.iml" />
+    </modules>
+  </component>
+</project>
