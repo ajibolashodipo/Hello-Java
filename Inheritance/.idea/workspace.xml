@@ -53,6 +53,16 @@
       <change afterPath="$PROJECT_DIR$/src/com/company/Animal.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/company/Dog.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InheritanceChallenge/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InheritanceChallenge/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InheritanceChallenge/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InheritanceChallenge/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InheritanceChallenge/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InheritanceChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InheritanceChallenge/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InheritanceChallenge/InheritanceChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InheritanceChallenge/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InheritanceChallenge/src/com/company/Vehicle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,5 +127,9 @@
       <screen x="1366" y="0" width="1920" height="1050" />
     </state>
     <state x="2131" y="240" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1597495929991" />
+    <state x="1718" y="99" key="new project wizard" timestamp="1597519379604">
+      <screen x="1366" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1718" y="99" key="new project wizard/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1597519379604" />
   </component>
 </project>
