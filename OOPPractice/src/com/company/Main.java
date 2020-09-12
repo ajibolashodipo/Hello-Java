@@ -5,17 +5,39 @@ public class Main {
     public static void main(String[] args) {
 	// write your code here
         Rectangle r= new Rectangle();
-        r.length= 5;
-        r.breadth= 5;
+        r.setLength(5);
+        r.setBreadth(5);
+
         System.out.println(r.area());
         System.out.println(r.perimeter());
         System.out.println(r.isSquare());
+
+
+        Cylinder c= new Cylinder();
+        c.radius= 5;
+        c.height= 6;
+        System.out.println(c.totalSurfaceArea());
     }
 }
 
 class Rectangle{
-    public double length;
-    public double breadth;
+    private double length;
+    private double breadth;
+
+    //getter and setters
+    public double getLength(){
+        return length;
+    }
+    public double getBreadth(){
+        return breadth;
+    }
+
+    public void setLength(double l){
+        length=l;
+    }
+    public void setBreadth(double b){
+        breadth=b;
+    }
 
     public double area(){
        return length*breadth;
@@ -25,5 +47,23 @@ class Rectangle{
     }
     public boolean isSquare(){
         return length==breadth;
+    }
+}
+
+class Cylinder{
+    public double radius;
+    public double height;
+
+    public double lidArea(){
+        return  Math.PI* radius*radius;
+    }
+    public double totalSurfaceArea(){
+        return 2* lidArea() + circumference()*height;
+    }
+    public double volume(){
+        return  lidArea() * height;
+    }
+    public double circumference(){
+        return 2* Math.PI* radius;
     }
 }
