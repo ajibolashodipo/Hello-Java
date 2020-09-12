@@ -4,9 +4,9 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code here
-        Rectangle r= new Rectangle();
-        r.setLength(5);
-        r.setBreadth(5);
+        Rectangle r= new Rectangle(6,6);
+//        r.setLength(5);
+//        r.setBreadth(5);
 
         System.out.println(r.area());
         System.out.println(r.perimeter());
@@ -23,6 +23,16 @@ public class Main {
 class Rectangle{
     private double length;
     private double breadth;
+
+    //constructor
+    public Rectangle(){
+        length=1;
+        breadth=2;
+    }
+    public Rectangle(double l, double b){
+        length=l;
+        breadth=b;
+    }
 
     //getter and setters
     public double getLength(){
